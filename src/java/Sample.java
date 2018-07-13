@@ -6,6 +6,7 @@ public class Sample {
 		String commandSymbolicName = "command_APPRouteAddPeople on program eServiceSchemaVariableMapping.tcl to command APPRouteAddPeople";
 		commandSymbolicName = commandSymbolicName.substring(0, commandSymbolicName.indexOf("on program eServiceSchemaVariableMapping")-1);
 		System.out.println("commandSymbolicName : " + commandSymbolicName);
+		// Sample //
 	}
 
 }
